@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">watersy</string>
+    <string name="deliver">DELIVER</string>
+    <string name="delivery_portal">DELIVERY PORTAL</string>
+    <string name="cancel">cancel</string>
+    <string name="name_jhon_smith">Name: Jhon Smith</string>
+    <string name="address_no_78_main_street_galaha">Address: No.78,main street, galaha</string>
+    <string name="phone_077_138_0242">Phone: 077 138 0242</string>
+    <string name="edit">Edit</string>
+    <string name="checkout">Checkout</string>
+    <string name="_19l_bottel">19l Bottel</string>
+    <string name="qty_1">Qty = 1</string>
+    <string name="price_320_00">Price=320.00</string>
+    <string name="_19l_pic">19l_pic</string>
+    <string name="edit_shipping">EDIT SHIPPING</string>
+    <string name="first_name">First Name</string>
+    <string name="proceed">Proceed</string>
+    <string name="total">Total</string>
+    <string name="offer">Offer</string>
+    <string name="shipping_fee">Shipping Fee</string>
+    <string name="sub_total">Sub Total</string>
+    <string name="_5l_bottel">5l Bottel</string>
+    <string name="price_120_00">Price=120.00</string>
+    <string name="qty_2">Qty =1</string>
+    <string name="todo">TODO</string>
+    <string name="edit_detail">EDIT DETAIL</string>
+    <string name="cancel_3">Cancel</string>
+    <string name="full_name">Full Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="address">Address</string>
+    <string name="jhon">Jhon</string>
+    <string name="smith">Smith</string>
+    <string name="no_78_main_street_galaha">no.78,main street,galaha</string>
+    <string name="phone_no">Phone No</string>
+    <string name="save">SAVE</string>
+</resources>
