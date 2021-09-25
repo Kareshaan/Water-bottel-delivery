@@ -1,4 +1,4 @@
-package com.example.waterdelivery2;
+package com.example.waterdelivery2.payment;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -6,6 +6,8 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+
+import com.example.waterdelivery2.R;
 
 public class payment_option extends AppCompatActivity {
     private Button button;

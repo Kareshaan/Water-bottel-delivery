@@ -52,6 +52,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
+
         }
 
 
@@ -71,7 +72,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void openCardPayment(){
-        Intent intent= new Intent(this,paym.class);
+        Intent intent= new Intent(this,payment.class);
         startActivity(intent);
     }
 

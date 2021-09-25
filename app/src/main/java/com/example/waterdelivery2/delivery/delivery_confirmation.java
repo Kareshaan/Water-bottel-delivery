@@ -8,7 +8,6 @@ import android.view.View;
 import android.widget.Button;
 
 import com.example.waterdelivery2.R;
-import com.example.waterdelivery2.edit_form;
 
 public class delivery_confirmation extends AppCompatActivity {
     private Button button;

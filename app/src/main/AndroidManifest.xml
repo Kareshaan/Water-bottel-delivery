@@ -14,8 +14,8 @@
             android:name=".drawer"
             android:label="@string/title_activity_drawer"
             android:theme="@style/Theme.WaterDelivery2.NoActionBar"></activity>
-        <activity android:name=".payment" />
-        <activity android:name=".payment_option" />
+        <activity android:name=".payment.payment" />
+        <activity android:name=".payment.payment_option" />
         <activity
             android:name=".MainActivity"
             android:label="@string/app_name"
