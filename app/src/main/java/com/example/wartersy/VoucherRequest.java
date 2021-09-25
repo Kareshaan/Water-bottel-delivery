@@ -6,7 +6,7 @@ public class VoucherRequest implements Serializable {
     private String platinumCount, goldCount, silverCount, bronzeCount;
 
     public VoucherRequest() {
-        //empty constructor for Firebase
+        //empty constructor for Firebase data base
     }
 
     public VoucherRequest(String platinumCount, String goldCount, String silverCount, String bronzeCount) {

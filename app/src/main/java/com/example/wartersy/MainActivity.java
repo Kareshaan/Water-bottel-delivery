@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
         spSilver = findViewById(R.id.spSilver);
         spBronze = findViewById(R.id.spBronze);
 
-        //back button not working
+        //back button not working emulator error fix
         if (getSupportActionBar() != null) {
             getSupportActionBar().setDisplayShowHomeEnabled(true);
             getSupportActionBar().setDisplayHomeAsUpEnabled(true);
