@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "699628872513",
+    "firebase_url": "https://wartersy-default-rtdb.firebaseio.com",
+    "project_id": "wartersy",
+    "storage_bucket": "wartersy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699628872513:android:8a5cdfe00d76f1b04437c0",
+        "android_client_info": {
+          "package_name": "com.example.wartersy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699628872513-p3rrqpbf6v3s2clld7mkjn585c8jvqmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYjZyQipC9LN5GqUoE8NCEDqP0AcTEF4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699628872513-p3rrqpbf6v3s2clld7mkjn585c8jvqmh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
