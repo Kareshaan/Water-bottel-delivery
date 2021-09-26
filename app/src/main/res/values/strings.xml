@@ -33,4 +33,106 @@
     <string name="no_78_main_street_galaha">no.78,main street,galaha</string>
     <string name="phone_no">Phone No</string>
     <string name="save">SAVE</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="profile">Profile</string>
+
+
+    <string name="login_bg_image_desc">Login_page_background_image</string>
+    <string name="login_welcome_text">Let\'s start with Watersy</string>
+    <string name="email_address">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="or">or</string>
+    <string name="create_account">Create Account</string>
+    <string name="reg_welcome">Become a member</string>
+    <string name="title">Title</string>
+    <string name="first_name">First Name</string>
+    <string name="sample_firstName">John</string>
+    <string name="sample_lastname">Doe</string>
+    <string name="last_name">Last Name</string>
+    <string name="province">Province</string>
+    <string name="phone_num">Phone Number</string>
+    <string name="sample_phone">+94711122341</string>
+    <string name="sample_email_address">johndoe@gmail.com</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="email_verification">Email Verification</string>
+    <string name="verify_email_msg">We have sent a verification link to your email. Please verify your account to proceed. Please check your SPAM/JUNK folder if the verification email is not visible.</string>
+    <string name="okay_btn_text">okay</string>
+    <string name="_15_liters">15 Liters</string>
+    <string name="_19_liters">19 Liters</string>
+    <string name="water_bottle_19l">water bottle 19l</string>
+    <string name="refilter">REFILTER</string>
+    <string name="bottle_type">Bottle Type</string>
+    <string name="bottle_refill_warning">If the bottel is damaged re-filling cannot be proceed!</string>
+    <string name="refill_quantity">Quantity</string>
+    <string name="one_bottle">1</string>
+    <string name="date_for_delivery">Date for Delivery</string>
+    <string name="_2021_12_12">2021-12-12</string>
+    <string name="store">Store</string>
+    <string name="order">Order</string>
+    <string name="my_profile">My Profile</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="delete_profile">Delete Profile</string>
+    <string name="update_profile_title">Update Profile</string>
+   
+    <string name="confirm_order">Confirm Order</string>
+    <string name="check_image">check_image</string>
+    <string name="product_id">Product ID</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_qty">Product QTY</string>
+    <string name="price">Price</string>
+
+    <string name="total_amount">Total Amount</string>
+    <string name="edit_order">Edit Order</string>
+    <string name="continue_order">Continue</string>
+
+    <string name="are_you_sure_you_want_to_continue">Are you sure you want to continue?</string>
+
+    <string-array name="title_array">
+        <item>Mr</item>
+        <item>Ms</item>
+        <item>Mrs</item>
+        <item>Miss</item>
+    </string-array>
+
+    <string-array name="province_array">
+        <item>Western Province</item>
+        <item>Eastern Province</item>
+        <item>Central Province</item>
+        <item>Southern Province</item>
+        <item>Uva Province</item>
+        <item>Sabaragamuwa Province</item>
+        <item>North Western Province</item>
+        <item>North Central Province</item>
+        <item>Northern Province</item>
+    </string-array>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_main_navigation">MainNavigation</string>
+    <string name="home">Home</string>
+    <string name="promo">Promo</string>
+    <string name="terms_and_conditions">Terms and Conditions</string>
+    <string name="privacy">Privacy</string>
+    <string name="title_activity_nav_drawer">NavDrawer</string>
+
+    <string name="menu">Menu</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawer</string>
+    <string name="logount">Logout</string>
 </resources>
