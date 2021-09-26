@@ -98,7 +98,7 @@ public class OrderConfirmationActivity extends AppCompatActivity implements View
             public void onComplete(@NonNull Task<Void> task) {
                      if(task.isSuccessful()){
                          Toast.makeText(OrderConfirmationActivity.this, "Order placed", Toast.LENGTH_LONG).show();
-
+                         // redirect to payment
                      }else{
                          Toast.makeText(OrderConfirmationActivity.this, "Something went wrong while placing the order", Toast.LENGTH_LONG).show();
                      }
