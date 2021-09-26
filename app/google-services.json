@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "230977461659",
+    "firebase_url": "https://watersy-a036c-default-rtdb.firebaseio.com",
+    "project_id": "watersy-a036c",
+    "storage_bucket": "watersy-a036c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230977461659:android:385962a2676ce4044d553e",
+        "android_client_info": {
+          "package_name": "com.example.watersy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230977461659-ggt919m1dvdom22j7mlpvns7b7dnb73i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSOypmTvmWtpMU0y9RCk72kv910-wkq7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230977461659-ggt919m1dvdom22j7mlpvns7b7dnb73i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
