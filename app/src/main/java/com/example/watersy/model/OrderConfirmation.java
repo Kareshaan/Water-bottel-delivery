@@ -60,3 +60,4 @@ public class OrderConfirmation implements Serializable {
         return this.items.size() > 0;
     }
 }
+
