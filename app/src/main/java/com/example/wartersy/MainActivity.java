@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
             getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         }
 
-        //onClick
+        //onClick (display pop up page)
         findViewById(R.id.btnPromos).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -57,7 +57,7 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
-    private void getData() {
+    private void getData() { //making an object to add data
         String platinumCount = spPlatinum.getSelectedItem().toString();
         String goldCount = spGold.getSelectedItem().toString();
         String silverCount = spSilver.getSelectedItem().toString();

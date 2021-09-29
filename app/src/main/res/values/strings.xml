@@ -1,4 +1,4 @@
-<resources>
+<resources>//get values as string array list
     <string name="app_name">Wartersy</string>
     <string-array name="quantities">
         <item>0</item>
